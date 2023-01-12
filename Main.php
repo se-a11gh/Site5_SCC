@@ -270,6 +270,8 @@
 </section>
 
 
+
+
 <div class="foter_info">
 <img id="logo_footer" src="media/logoB.svg" alt="">
 <p>Все права защищены. 2023г.</p>
